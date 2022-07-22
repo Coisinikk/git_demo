@@ -8,5 +8,6 @@ public class Test {
         System.out.println("master");
         System.out.println("hot-fix");
         System.out.println("Coisinikk");
+        System.out.println("github is no");
     }
 }
